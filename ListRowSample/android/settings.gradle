@@ -1,0 +1,3 @@
+rootProject.name = 'LisRowSample'
+
+include ':app'
