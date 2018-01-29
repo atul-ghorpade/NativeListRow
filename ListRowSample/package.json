@@ -1,5 +1,5 @@
 {
-  "name": "LisRowSample",
+  "name": "listrowsample",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -18,5 +18,6 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "author": "Atul Ghorpade"
 }
