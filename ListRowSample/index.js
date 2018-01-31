@@ -1,4 +1,9 @@
-// import { AppRegistry } from 'react-native';
-// import App from './App';
+import ListRow,{AccessoryView} from './ListRow/ListRow';
 
-// AppRegistry.registerComponent('LisRowSample', () => App);
+// export default ListRow;
+
+export {
+    ListRow,
+    AccessoryView
+}
+  

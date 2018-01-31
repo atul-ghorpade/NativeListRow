@@ -1,7 +1,8 @@
 {
-  "name": "listrowsample",
+  "name": "react-native-list-row",
   "version": "0.0.1",
-  "private": true,
+  "description": "This package supports iOS and android native style list rows.",
+  "keywords":["list row", "list sample", "native style rows", "discolure indicator", "subtitle", "detail text"],
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest"

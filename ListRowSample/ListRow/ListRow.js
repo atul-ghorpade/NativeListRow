@@ -10,11 +10,10 @@ import {
     TouchableOpacity,
     Dimensions
 } from 'react-native';
+
 import {AccessoryView} from './AccessoryView'
 const DISCLOSURE_INDICATOR = require('./ic_arrow_right_grey.png');
 const CHECKMARK = require('./ic_tick_golden.png');
-
-
 
 /*
 
