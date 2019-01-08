@@ -2,6 +2,8 @@
 
 This component allows to design and display native style rows with required accessory view.
 
+## npm 
+https://www.npmjs.com/package/react-native-list-row
 
 ## Screenshots
 
