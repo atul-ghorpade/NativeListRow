@@ -5,11 +5,7 @@ This component allows to design and display native style rows with required acce
 
 ## Screenshots
 
-![Alt text](./Screeenshots/checkmarks.png?raw=true "Checkmarks")
-![Alt text](./Screeenshots/mulitpleSubtitles.png?raw=true "Mulitple Subtitles")
-![Alt text](./Screeenshots/disclosureIndicator.png?raw=true "Disclosure Indicator")
-![Alt text](./Screeenshots/titles.png?raw=true "Titles")
-![Alt text](./Screeenshots/details.png?raw=true "Details")
+![Alt text](./Screeenshots/checkmarks.png?raw=true "Checkmarks") ![Alt text](./Screeenshots/mulitpleSubtitles.png?raw=true "Mulitple Subtitles") ![Alt text](./Screeenshots/disclosureIndicator.png?raw=true "Disclosure Indicator") ![Alt text](./Screeenshots/titles.png?raw=true "Titles") ![Alt text](./Screeenshots/details.png?raw=true "Details")
 
 ## Code Example
 
