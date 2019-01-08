@@ -23,28 +23,28 @@ In react native, there is no straightforward way to achieve native (iOS and andr
 
 ## Props
 
-### 'item'
+### `item`
 type - any
 data to be returned back at 'onRowTapped'
 
-### 'titleText'
+### `titleText`
 type - String
 title to be displayed for row
 
-### 'detailText'
+### `detailText`
 type - String
 detailText to be displayed for row(at right)
 
-### 'subTitles'
+### `subTitles`
 type - Array
 array of subtitles texts for row
 
-### 'subTitleText'
+### `subTitleText`
 type - String
 subtitle text to be displayed(below title)
 
 
-### 'accessoryView'
+### `accessoryView`
 type - AccessoryView
 available values - DisclosureIndicator or Checkmark or None
 type of accessory view to be displayed
