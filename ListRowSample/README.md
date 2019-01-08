@@ -7,6 +7,13 @@ This component allows to design and display native style rows with required acce
 
 ![Alt text](./Screeenshots/checkmarks.png?raw=true "Checkmarks") ![Alt text](./Screeenshots/mulitpleSubtitles.png?raw=true "Mulitple Subtitles") ![Alt text](./Screeenshots/disclosureIndicator.png?raw=true "Disclosure Indicator") ![Alt text](./Screeenshots/titles.png?raw=true "Titles") ![Alt text](./Screeenshots/details.png?raw=true "Details")
 
+<p float="left">
+  <img src="./Screeenshots/checkmarks.png" width="320" height = "640" />
+  <img src="./Screeenshots/disclosureIndicator.png" width="320" height = "640" />
+  <img src="./Screeenshots/titles.png" width="320" height = "640" />
+  <img src="./Screeenshots/details.png" width="320" height = "640" />
+</p>
+
 ## Code Example
 
 Check /Example Directory.
